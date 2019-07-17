@@ -7,5 +7,5 @@ import (
 func main() {
 	log.WithFields(log.Fields{
 		"animal": "Walrus",
-	}).Info("Testing")
+	}).Info("Testing BLAHBLAH")
 }
